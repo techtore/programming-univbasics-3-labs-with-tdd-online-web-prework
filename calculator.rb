@@ -1,3 +1,3 @@
-first_number = i[0.0] 
+first_number = 1.0
 
 
